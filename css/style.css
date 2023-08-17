@@ -12,4 +12,5 @@ html {
     background-color: hsl(271, 69%, 75%);
     color: white;
     font-family: "Dosis", sans-serif;
+    background: center / cover repeat-y url("../images/istockphoto-1299881309-1024x1024\ \(1\).jpg");
   }
