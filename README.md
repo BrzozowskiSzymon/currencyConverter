@@ -1,5 +1,5 @@
 # Currency Converter
-The subject of the project is a currency converter. The calculator allows you to convert the amount in Polish currency to any currency of your choice.<br>Here is a working live demo -> [CLICK HERE](https://boozyboss.github.io/currencyConverter/)
+The subject of the project is a currency converter. The calculator allows you to convert the amount in Polish currency to any currency of your choice.<br>Here is a working live Demo -> [CLICK HERE](https://boozyboss.github.io/currencyConverter/)
  
 ## Table of Contents
 * [Description](#description)
